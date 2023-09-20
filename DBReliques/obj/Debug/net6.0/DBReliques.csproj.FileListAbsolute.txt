@@ -1,0 +1,14 @@
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\obj\Debug\net6.0\DBReliques.csproj.AssemblyReference.cache
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\obj\Debug\net6.0\DBReliques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\obj\Debug\net6.0\DBReliques.AssemblyInfoInputs.cache
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\obj\Debug\net6.0\DBReliques.AssemblyInfo.cs
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\obj\Debug\net6.0\DBReliques.csproj.CoreCompileInputs.cache
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\bin\Debug\net6.0\DBReliques.deps.json
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\bin\Debug\net6.0\DBReliques.dll
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\bin\Debug\net6.0\DBReliques.pdb
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\obj\Debug\net6.0\DBReliques.dll
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\obj\Debug\net6.0\refint\DBReliques.dll
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\obj\Debug\net6.0\DBReliques.pdb
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\obj\Debug\net6.0\ref\DBReliques.dll
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\bin\Debug\net6.0\DBReliques.runtimeconfig.json
+C:\Users\galak\source\repos\ArtsAnalyser\DBReliques\obj\Debug\net6.0\DBReliques.genruntimeconfig.cache

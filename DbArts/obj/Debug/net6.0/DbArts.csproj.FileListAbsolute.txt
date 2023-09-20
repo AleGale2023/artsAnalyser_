@@ -1,0 +1,14 @@
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\bin\Debug\net6.0\DbArts.deps.json
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\bin\Debug\net6.0\DbArts.runtimeconfig.json
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\bin\Debug\net6.0\DbArts.dll
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\bin\Debug\net6.0\DbArts.pdb
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\obj\Debug\net6.0\DbArts.csproj.AssemblyReference.cache
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\obj\Debug\net6.0\DbArts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\obj\Debug\net6.0\DbArts.AssemblyInfoInputs.cache
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\obj\Debug\net6.0\DbArts.AssemblyInfo.cs
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\obj\Debug\net6.0\DbArts.csproj.CoreCompileInputs.cache
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\obj\Debug\net6.0\DbArts.dll
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\obj\Debug\net6.0\refint\DbArts.dll
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\obj\Debug\net6.0\DbArts.pdb
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\obj\Debug\net6.0\DbArts.genruntimeconfig.cache
+C:\Users\galak\source\repos\ArtsAnalyser\DbArts\obj\Debug\net6.0\ref\DbArts.dll
